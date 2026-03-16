@@ -4,3 +4,4 @@ measurements and data processing were done together with other team members
 # python labs (1year)
 # autocad (1year)
 # matlab (2year)
+# computational methods (2year)
